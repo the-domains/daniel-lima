@@ -1,7 +1,7 @@
-name: Daniel Lima
+name: dlima
 favicon: null
-layout_spectrum: 0.786936261691153
-typography_spectrum: 0.5965617576148361
+layout_spectrum: 0.79176
+typography_spectrum: 0.53636
 title: 'Jornalismo, infografia e adjacências'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.11675717681646347
+  brandStrength: 0.1875
   lightness: 0.4476467703934759
-  saturation: 0.6090950928628445
+  saturation: 0.5625
   rhythmicContrast: 0.9365300403442234
 purpose: []
