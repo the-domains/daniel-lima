@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Lima]]></title>
+        <description><![CDATA[Daniel Lima]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 20:19:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Basquete 3.0]]></title>
+            <description><![CDATA[<article><h1>Basquete 3.0</h1><p>Faltou pouco para o bicampeonato do Golden State Warriors, mas sua reviravolta na forma como times da NBA operam - o tiro de 3 pontos como arma principal, o ritmo rápido e de grande volume de troca de passes - já deixou marcas no esporte. Escrevi a respeito aqui, com infográficos complementando a análise.</p></article>]]></description>
+            <link>undefinedbasquete-30/index.html</link>
+            <guid isPermaLink="false">fa8c98b1-e7aa-41ed-bbde-1dc669cdb848</guid>
+            <pubDate>Mon, 20 Jun 2016 20:19:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
